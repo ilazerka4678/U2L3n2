@@ -2,7 +2,7 @@ public class U2L3Runner {
     public static void main(String[] args) {
         Box box = new Box(10.5, 12.6, 15.75);
         double length, width, height;
-
+        
         length = 5;
         width = 10.0;
         height = length;
